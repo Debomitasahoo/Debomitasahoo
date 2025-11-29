@@ -1,7 +1,10 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Debomita</span></h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350">
+</p>
 
 <p align="center">
-  <b>Java Developer | Full-Stack Learner (React & Spring Boot) | Always Growing 🚀</b>
+  <b>Java Developer | Full-Stack Learner (React & Spring Boot)</b>
 </p>
 
 <p align="center">
